@@ -1,4 +1,4 @@
-# Nebulon
+# Insijaam
 
 A multi-platform native Discord client, aiming to provide the usual Discord experience with less resource usage and extra quality of life features.
 
